@@ -1,30 +1,49 @@
-# 👋 Olá, eu sou CleveOP!
+<!-- Banner Animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F7B32B&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+CleveOP!;Desenvolvedor+Full-Stack;Apaixonado+por+tecnologia+e+open+source" alt="Typing SVG" />
+</p>
 
-Sou um estudante apaixonado por tecnologia, sempre explorando novas maneiras de criar e aprender. Minha jornada começou com HTML e CSS, ferramentas que me permitem transformar ideias em realidade na web. 🚀
+<!-- Ícones das Linguagens -->
+<p align="center">
+  <!-- Linguagens selecionadas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+</p>
 
-## 💡 Sobre Mim
+<!-- Sobre Mim -->
+## 👋 Sobre Mim
 
-- 🎓 **Estudante** dedicado, sempre buscando novos conhecimentos.
-- 🎨 **Criativo**: adoro dar vida a projetos com design e funcionalidade.
-- 📚 **Leitor voraz**: acredito que aprender nunca é demais.
-- 🤝 **Voluntário**: contribuir para a comunidade faz parte de quem sou.
+Sou o Cleverson , desenvolvedor apaixonado por tecnologia, inovação e projetos open source. Gosto de aprender novas linguagens e criar soluções criativas em Front-end, Back-end e DevOps.
 
-## 🛠️ Habilidades
+- 💻 Atualmente estudando iências da Computação.
+- 🚀 Buscando colaborar com projetos que impactam positivamente a comunidade.
+- 🎯 Foco em desenvolvimento web, APIs, e cloud.
 
-- **HTML**
-- **CSS**
+<!-- Estatísticas animadas -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CleveOP&count_private=true&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CleveOP&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CleveOP&theme=radical" alt="Profile Details" />
+</p>
 
-## 🌱 O que estou aprendendo agora
+<!-- Projetos em destaque -->
+## ⚡ Projetos em Destaque
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e buscando formas criativas de impactar positivamente o mundo ao meu redor.
+- [propaganda de refresco](https://dancing-parfait-5245ac.netlify.app/)
+- [previsão do tempo](https://effervescent-nasturtium-f4be76.netlify.app/)
+- [Portfolio Web](https://spontaneous-mochi-58fafd.netlify.app/) - Meu portfólio pessoal com animações e design responsivo.
 
-## ✨ Curiosidades
+<!-- Contato e redes sociais -->
+## 🌐 Contato & Redes
 
-- Gosto de transformar desafios em oportunidades de aprendizado.
-- Acredito que a colaboração e o voluntariado são essenciais para um mundo melhor.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cleverson-de-oliveira-pereira-a794512ba/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](cleversonpereir4@gmeil.com)
 
 ---
 
-Se quiser trocar ideias, bater um papo sobre tecnologia, livros ou voluntariado, fique à vontade para me chamar! 😄
-
-<!-- Adicione seus links aqui futuramente, como LinkedIn, Twitter, etc. -->
+<p align="center">
+  <img src="https://github.com/CleveOP/CleveOP/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
