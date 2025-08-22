@@ -44,6 +44,7 @@ Sou o Cleverson , desenvolvedor apaixonado por tecnologia, inovação e projetos
 
 ---
 
+<!-- Conquistas GitHub -->
 <p align="center">
-  <img src="https://github.com/CleveOP/CleveOP/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CleveOP&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
